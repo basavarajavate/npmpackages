@@ -3,6 +3,9 @@
   "version": "0.0.3",
   "main": "lib/index.js",
   "module": "src/index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "dependencies": {
     "react": "latest",
     "react-dom": "latest",
@@ -13,5 +16,5 @@
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "97253bdaa9a74d575196d1de26c2c0563a0a9b58"
+  "gitHead": "c7ac86eb4eddc363c3a15b59127f07f7c6187691"
 }
