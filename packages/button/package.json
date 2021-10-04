@@ -17,6 +17,5 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
-  },
-  "gitHead": "837b4de9e54740b17cfac94fd49021f86dd593bf"
+  }
 }
