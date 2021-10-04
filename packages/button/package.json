@@ -1,6 +1,7 @@
 {
   "name": "@epsilon/button",
   "version": "0.0.1",
+  "license": "MIT",
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {
@@ -12,5 +13,6 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
-  }
+  },
+  "gitHead": "97253bdaa9a74d575196d1de26c2c0563a0a9b58"
 }
